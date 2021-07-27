@@ -1,7 +1,8 @@
 import React from 'react'
 
+export interface IProps {}
 
-const Tag = () => {
+const Tag: React.FC<IProps> = () => {
 
   return <div>test</div>
 }
