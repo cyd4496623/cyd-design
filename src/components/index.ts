@@ -1,4 +1,4 @@
-import './style.css'
+import './style.scss'
 
 export * from './button'
 export * from './header'
